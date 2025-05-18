@@ -1,5 +1,5 @@
 # session1(adder,encoder,mux)
-Projects done in the first session of the FPGA cource
+Projects done in the first session of the FPGA course
 
 ## 1] FULL ADDER
 
